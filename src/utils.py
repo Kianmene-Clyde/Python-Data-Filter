@@ -1,4 +1,4 @@
-from file_loader import load_csv
+from src.file_loader import load_csv
 
 def str_type(chaine):
     if chaine.isdigit():

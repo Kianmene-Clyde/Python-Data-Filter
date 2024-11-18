@@ -1,7 +1,8 @@
 import tkinter as tk
 from tkinter import ttk,simpledialog
 
-from tab import Tab  
+from src.tab import Tab
+
 
 # Fonction bouton load new table de la table
 def load_table(c_tab=None):

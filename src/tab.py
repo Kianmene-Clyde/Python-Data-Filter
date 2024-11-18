@@ -1,9 +1,9 @@
 import json
 import copy
 
-from utils import *
-from file_loader import *
-from file_saver import *
+from src.file_loader import *
+from src.file_saver import *
+from src.utils import *
 
 
 class Tab:
