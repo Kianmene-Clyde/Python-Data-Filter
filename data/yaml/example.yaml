@@ -1,0 +1,15 @@
+version: 2
+
+command: |
+    if [ "${CIRCLE_BRANCH}" == "master" ];
+      then ansible-playbook site.yml -i production;
+    fi
+
+environment:
+    TEST_REPORTS: /tmp/test-reports
+
+docker:
+    - image: ubuntu:14.04
+    - image: mongo:2.6.8
+      command: [mongod, --smallfiles]
+    - image: postgres:9.4.1

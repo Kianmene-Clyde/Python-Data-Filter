@@ -1,0 +1,13 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,TestList,TestBool
+892,3,"Kelly, Mr. James",male,34.5,0,0,330911,7.8292,,Q,"[roses,are,red]",True
+893,3,"Wilkes, Mrs. James (Ellen Needs)",female,47,1,0,363272,7,,S,"[violet,are,blue]",True
+894,2,"Myles, Mr. Thomas Francis",male,62,0,0,240276,9.6875,,Q,"[get,lucky]",False
+895,3,"Wirz, Mr. Albert",male,27,0,0,315154,8.6625,,S,"[faster,harder,better]",True
+896,3,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,1,1,3101298,12.2875,,S,"[one,two,three]",False
+897,3,"Svensson, Mr. Johan Cervin",male,14,0,0,7538,9.225,,S,"[viva,l'Algérie]",False
+898,3,"Connolly, Miss. Kate",female,30,0,0,330972,7.6292,,Q,"[viva,la,revolucion]",True
+899,2,"Caldwell, Mr. Albert Francis",male,26,1,1,248738,29,,S,"[i,will,survive]",False
+900,3,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,0,0,2657,7.2292,,C,"[j'arrête,de,faire,des,exemples]",False
+901,3,"Davies, Mr. John Samuel",male,21,2,0,A/4 48871,24.15,,S,"[1,2,3,4,5]",True
+902,3,"Ilieff, Mr. Ylio",male,,0,0,349220,7.8958,,S,"[101,202,303,404,505]",True
+903,1,"Jones, Mr. Charles Cresson",male,46,0,0,694,26,,S,"[test,test,test]",True
